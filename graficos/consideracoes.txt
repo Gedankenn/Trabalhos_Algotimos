@@ -1,0 +1,3 @@
+entregando 2 codigos do trabalho.. o primeiro  "trabalho_0.8c" eh a versao 32bits do codigo.. com escopo menor indo de 100mil ateh 1milhao o tamanho do vetor
+ja a segunda versao "trabalho_0.9c" eh a versao 64bits que vai de 100mil ateh 5milhoes, para obter um resultado maior
+o consumo de ram para a segunda versao foi no final do programa um total de 4.5gb 

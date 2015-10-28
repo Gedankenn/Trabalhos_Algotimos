@@ -1,0 +1,180 @@
+tabela com vetores de tamanho: 100000
+
+quicksort
+tempo ordenacao: 0.012700
+tempo vetor ja ordenado: 0.006000
+tempo vetor decrescente: 0.004000
+mergesort
+tempo ordenacao: 0.026000
+tempo vetor ja ordenado: 0.017000
+tempo vetor decrescente: 0.017000
+heapsort
+tempo ordenacao: 0.019100
+tempo vetor ja ordenado: 0.014000
+tempo vetor decrescente: 0.014000
+shellsort
+tempo ordenacao: 0.022900
+tempo vetor ja ordenado: 0.005000
+tempo vetor decrescente: 0.007000
+tabela com vetores de tamanho: 200000
+
+quicksort
+tempo ordenacao: 0.025900
+tempo vetor ja ordenado: 0.012000
+tempo vetor decrescente: 0.009000
+mergesort
+tempo ordenacao: 0.052000
+tempo vetor ja ordenado: 0.034000
+tempo vetor decrescente: 0.034000
+heapsort
+tempo ordenacao: 0.040500
+tempo vetor ja ordenado: 0.028000
+tempo vetor decrescente: 0.029000
+shellsort
+tempo ordenacao: 0.050300
+tempo vetor ja ordenado: 0.009000
+tempo vetor decrescente: 0.014000
+tabela com vetores de tamanho: 300000
+
+quicksort
+tempo ordenacao: 0.039300
+tempo vetor ja ordenado: 0.016000
+tempo vetor decrescente: 0.013000
+mergesort
+tempo ordenacao: 0.080300
+tempo vetor ja ordenado: 0.053000
+tempo vetor decrescente: 0.051000
+heapsort
+tempo ordenacao: 0.063900
+tempo vetor ja ordenado: 0.045000
+tempo vetor decrescente: 0.044000
+shellsort
+tempo ordenacao: 0.079900
+tempo vetor ja ordenado: 0.014000
+tempo vetor decrescente: 0.021000
+tabela com vetores de tamanho: 400000
+
+quicksort
+tempo ordenacao: 0.051500
+tempo vetor ja ordenado: 0.022000
+tempo vetor decrescente: 0.019000
+mergesort
+tempo ordenacao: 0.106700
+tempo vetor ja ordenado: 0.069000
+tempo vetor decrescente: 0.067000
+heapsort
+tempo ordenacao: 0.087900
+tempo vetor ja ordenado: 0.060000
+tempo vetor decrescente: 0.060000
+shellsort
+tempo ordenacao: 0.111700
+tempo vetor ja ordenado: 0.018000
+tempo vetor decrescente: 0.026000
+tabela com vetores de tamanho: 500000
+
+quicksort
+tempo ordenacao: 0.064800
+tempo vetor ja ordenado: 0.029000
+tempo vetor decrescente: 0.024000
+mergesort
+tempo ordenacao: 0.134300
+tempo vetor ja ordenado: 0.090000
+tempo vetor decrescente: 0.089000
+heapsort
+tempo ordenacao: 0.111800
+tempo vetor ja ordenado: 0.077000
+tempo vetor decrescente: 0.078000
+shellsort
+tempo ordenacao: 0.144300
+tempo vetor ja ordenado: 0.024000
+tempo vetor decrescente: 0.036000
+tabela com vetores de tamanho: 600000
+
+quicksort
+tempo ordenacao: 0.079300
+tempo vetor ja ordenado: 0.034000
+tempo vetor decrescente: 0.029000
+mergesort
+tempo ordenacao: 0.166100
+tempo vetor ja ordenado: 0.108000
+tempo vetor decrescente: 0.108000
+heapsort
+tempo ordenacao: 0.140400
+tempo vetor ja ordenado: 0.093000
+tempo vetor decrescente: 0.093000
+shellsort
+tempo ordenacao: 0.180300
+tempo vetor ja ordenado: 0.029000
+tempo vetor decrescente: 0.044000
+tabela com vetores de tamanho: 700000
+
+quicksort
+tempo ordenacao: 0.092200
+tempo vetor ja ordenado: 0.039000
+tempo vetor decrescente: 0.035000
+mergesort
+tempo ordenacao: 0.193800
+tempo vetor ja ordenado: 0.127000
+tempo vetor decrescente: 0.125000
+heapsort
+tempo ordenacao: 0.163200
+tempo vetor ja ordenado: 0.111000
+tempo vetor decrescente: 0.109000
+shellsort
+tempo ordenacao: 0.215500
+tempo vetor ja ordenado: 0.034000
+tempo vetor decrescente: 0.052000
+tabela com vetores de tamanho: 800000
+
+quicksort
+tempo ordenacao: 0.105500
+tempo vetor ja ordenado: 0.045000
+tempo vetor decrescente: 0.040000
+mergesort
+tempo ordenacao: 0.221500
+tempo vetor ja ordenado: 0.145000
+tempo vetor decrescente: 0.144000
+heapsort
+tempo ordenacao: 0.189600
+tempo vetor ja ordenado: 0.125000
+tempo vetor decrescente: 0.125000
+shellsort
+tempo ordenacao: 0.247300
+tempo vetor ja ordenado: 0.040000
+tempo vetor decrescente: 0.063000
+tabela com vetores de tamanho: 900000
+
+quicksort
+tempo ordenacao: 0.118300
+tempo vetor ja ordenado: 0.053000
+tempo vetor decrescente: 0.045000
+mergesort
+tempo ordenacao: 0.250600
+tempo vetor ja ordenado: 0.168000
+tempo vetor decrescente: 0.165000
+heapsort
+tempo ordenacao: 0.218300
+tempo vetor ja ordenado: 0.144000
+tempo vetor decrescente: 0.142000
+shellsort
+tempo ordenacao: 0.288200
+tempo vetor ja ordenado: 0.045000
+tempo vetor decrescente: 0.066000
+tabela com vetores de tamanho: 1000000
+
+quicksort
+tempo ordenacao: 0.132500
+tempo vetor ja ordenado: 0.059000
+tempo vetor decrescente: 0.050000
+mergesort
+tempo ordenacao: 0.283300
+tempo vetor ja ordenado: 0.188000
+tempo vetor decrescente: 0.185000
+heapsort
+tempo ordenacao: 0.252300
+tempo vetor ja ordenado: 0.160000
+tempo vetor decrescente: 0.162000
+shellsort
+tempo ordenacao: 0.324400
+tempo vetor ja ordenado: 0.051000
+tempo vetor decrescente: 0.072000
