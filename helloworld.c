@@ -8,7 +8,7 @@ int main(void){
 	int i;
 
 	#pragma omp parallel for
-		for(i=1;1<n;i++)
-			b[1]=(a[1] +a[i-1] ) / 2.0;
+		for(i=1;i<n;i++)
+			b[i]=(a[i] +a[i-1] ) / 2.0;
 }
 }
